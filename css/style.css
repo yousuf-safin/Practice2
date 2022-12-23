@@ -1,0 +1,19 @@
+#ylw{
+	color: yellow;
+	border: 5px dashed;
+}
+body{
+			background-color: teal;
+		}
+.clr{
+	color: tan;
+}
+.size{
+	font-size: 19px;
+}
+.u{
+	font-size: 17px;
+}
+.ref{color: lime;}
+.red{color: lime; border: solid black;}
+#h2{background-color: black; border: dashed white;}
